@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - ### 👋 Hey
-- ##I’m Nikhil Kachhawa
-- 
+- I’m Nikhil Kachhawa
+ 
 - 🔭 I’m currently working on my own Project.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nikhil030100)
